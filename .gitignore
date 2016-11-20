@@ -1,0 +1,8 @@
+**/node_modules/
+**/bower_components/
+.sass-cache/
+.tmp/
+.idea
+src/**/*.css
+src/**/main.css.map.css
+/nbproject/private/
